@@ -1,5 +1,5 @@
 ## Haskell Platform ##
-To run Haskell programs on your computer, you will to download the [Haskell Platform](https://www.haskell.org/platform/).
+To run Haskell programs on your computer, you will need to download the [Haskell Platform](https://www.haskell.org/platform/).
 
 After downloading, go to PowerShell and type `ghci`. It should display the GHCi version, and on pressing enter, `Prelude>`.
 

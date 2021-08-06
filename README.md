@@ -1,4 +1,6 @@
-## Downloading Haskell Platform ##
+## Haskell Platform ##
 To run Haskell programs on your computer, you will to download the [Haskell Platform](https://www.haskell.org/platform/).
 
-After you have followed the steps given in the above website, go to PowerShell and type `ghci`. You should get a message mentioning the version.
+After downloading, go to PowerShell and type `ghci`. It should display the GHCi version, and on pressing enter, `Prelude>`.
+
+To run the source code file `factorial.hs`, type in `:load factorial.hs` in front of `Prelude>`. Hopefully it compiles without errors!

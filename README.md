@@ -5,6 +5,11 @@ After downloading, go to PowerShell and type `ghci`. It should display the GHCi 
 
 To run the source code file `factorial.hs`, type in `:load factorial.hs` in front of `Prelude>`. Hopefully it compiles without errors!
 
+## Other Resources ##
+
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
+- [Learning Haskell Data Analysis](https://www.packtpub.com/product/learning-haskell-data-analysis/9781784394707) by James Church
+
 ## Functional Programming in Haskell ##
 
 University of Glasgow has a great course on Future Learn: [Functional Programming in Haskell: Supercharge Your Coding](https://www.futurelearn.com/courses/functional-programming-haskell).
@@ -40,8 +45,3 @@ By the end of the course, you‘ll be able to...
 - Produce definitions of algebraic data types and apply recursion to define functions that traverse such types
 - Apply formal methods to prove properties of functional programs
 - Justify why a program uses common standard monads (including IO and Maybe)
-
-## More Resources ##
-
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-- [Learning Haskell Data Analysis](https://www.packtpub.com/product/learning-haskell-data-analysis/9781784394707) by James Church

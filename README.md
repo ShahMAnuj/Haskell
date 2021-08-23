@@ -8,7 +8,7 @@ To run the source code file `factorial.hs`, type in `:load factorial.hs` in fron
 ## Other Resources ##
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) by Miran Lipovača
-- [Learning Haskell Data Analysis](https://www.packtpub.com/product/learning-haskell-data-analysis/9781784394707) by James Church
+- [Real World Haskell](http://book.realworldhaskell.org/read/) by by Bryan O'Sullivan, Don Stewart, and John Goerzen
 
 ## Functional Programming in Haskell ##
 
